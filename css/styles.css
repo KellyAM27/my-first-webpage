@@ -1,0 +1,22 @@
+h1 {
+  color: rgb(145, 16, 16);
+  background-color: pale pink;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: rgb(209, 31, 209)
+}
+
+ul  {
+  font-size: 30px
+  line-height: 30px
+  text-align: center;
+}
